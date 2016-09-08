@@ -227,3 +227,21 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+    
+    
+# defaults from mmistakes docs
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+          
