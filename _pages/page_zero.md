@@ -1,7 +1,7 @@
 ---
-layout: archive
+type: posts
+layout: single
 title: "Page 0"
-author_profile: true
 ---
 
 # Assignment 1
