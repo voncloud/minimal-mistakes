@@ -1,7 +1,6 @@
 ---
-type: posts
-layout: single
-title: "Page 0"
+layout: post
+title: Blogging Like a Hacker @ Page Zero
 ---
 
 # Assignment 1
