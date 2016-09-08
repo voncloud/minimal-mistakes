@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Page 0"
+author_profile: true
+---
+
 # Assignment 1
 
 ## Question 1
