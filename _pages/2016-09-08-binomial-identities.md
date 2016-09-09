@@ -8,7 +8,9 @@ permalink: /binomial-identities/
 
 ==Pascals==
 
-The binomial coefficient $n \choose k$ is defined as:
+The binomial coefficient $ n \choose k $ is defined as:
+
+$ n \choose k $
 
 $$ \binom{n}{k} = \frac{n!}{k! \ (n-k)!} $$
 
