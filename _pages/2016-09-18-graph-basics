@@ -1,0 +1,4 @@
+## Basic definitions
+
+**walk**: a sequence of vertices $\{v_1,v_2,\ldots,v_n\}$ and edges $\{e_1,e_2,\ldots,e_n\}$ s.t.
+the edge $e_i$ has endpoints $e_i$ and $e_i + 1$
